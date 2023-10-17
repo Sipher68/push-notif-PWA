@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568534380093",
+    "project_id": "angular-ionic-b85fd",
+    "storage_bucket": "angular-ionic-b85fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568534380093:android:6a29876c6ddd2a7d8c0454",
+        "android_client_info": {
+          "package_name": "com.push.notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCh-1S_iX7ui2z2JwzGm6roY41DaHMhjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
